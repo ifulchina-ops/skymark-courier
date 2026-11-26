@@ -1,0 +1,22 @@
+make.fun ROUND 12 — worker 11/11: best-flight-game-20261126-0057 (builder).
+Len's 09:56 WITA tap "Gas, lanjutin 11 event" is the named go-ahead for this
+event. $500 top 50 (top 10: $100/$55/$30/$29/$20/$19/$15/$14/$12/$11),
+closes 28 Nov 08:57 WITA.
+
+Build a complete original flight game, "Skymark Courier": a bush-plane
+courier (callsign SKY-7) flying a dawn run through a procedural river canyon
+in chase view. Thread glowing target rings, mind the ridges, keep fuel up;
+3 lives, levels speed up every 10 rings. HUD must show altitude, speed and
+heading (plus compass strip, fuel gauge, attitude dial, score, rings, level,
+lives). Screenshots must show the cockpit/chase view over recognisable
+terrain (river, runway, village, bridge, balloons), the aircraft in frame
+with instruments lit, and a ring ahead.
+
+Deliverables in the public repo ifulchina-ops/skymark-courier: main.ts
+(Node 22) at root, vendor/makefun-game.ts copied from the kit unchanged,
+game/ static files (index.html + ES modules, no network), 3 screenshots
+under screenshots/ taken from the real game code via ?shot=start|play|end,
+README with 3 live make.fun/badge lines and 0 static shields.io badges,
+LICENSE 0BSD with SPDX-License-Identifier: 0BSD first line. Serve locally,
+screenshot in headless Chromium, verify the dossier builds, push, bundle
+with the event kit CLI, run makefun check, submit, poll until VERIFIED.
