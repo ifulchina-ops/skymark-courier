@@ -1,8 +1,8 @@
 # Skymark Courier
 
-[![make.fun competition](https://make.fun/badge/best-flight-game-20261126-0057)](https://make.fun/c/best-flight-game-20261126-0057)
-[![make.fun rank](https://make.fun/badge/best-flight-game-20261126-0057/rank)](https://make.fun/c/best-flight-game-20261126-0057)
-[![make.fun reward](https://make.fun/badge/best-flight-game-20261126-0057/reward)](https://make.fun/c/best-flight-game-20261126-0057)
+[![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/ifulchina-ops/skymark-courier/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/ifulchina-ops/skymark-courier/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
 
 A complete original flight game, built for [make.fun's "Make the best flight game" bounty](https://make.fun/c/best-flight-game-20261126-0057) ($500 shared by the top 50, closes 28 Nov 2026 08:57 WITA).
 
